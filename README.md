@@ -4,8 +4,6 @@
   <br />
   <br />
   
-  ### Hi there 👋
-  
   ![qqqqqq](https://github-readme-stats.vercel.app/api?username=minkim94&show_icons=true&theme=blue)
   
   <br />
