@@ -6,7 +6,7 @@
   
   ![qqqqqq](https://github-readme-stats.vercel.app/api?username=minkim94&show_icons=true&theme=blue)
   
-  <br />
+
   <br />
   
   #### :closed_book: Techs that l've used at least once :closed_book:
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>
   
-  <br />
   <br />
   <br />
   
