@@ -23,7 +23,7 @@
   
   <br />
   <br />
-  
+   
   #### :closed_book: Techs that l've used at least once :closed_book:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>  
   <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
