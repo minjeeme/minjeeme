@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center'> 
 
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:F6BFD6,100:a82da8&height=250&section=header&text=KIM MIN JI&descSize=15&descAlignY=65&fontSize=90&fontColor=FFF" />
   
