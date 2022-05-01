@@ -5,7 +5,7 @@
   <br />
   <br />
   
-  ![qqqqqq](https://github-readme-stats.vercel.app/api?username=minjeeme&show_icons=true&theme=blue)
+  ![qqqqqq](https://github-readme-stats.vercel.app/api?username=kminjee&show_icons=true&theme=blue)
 
   <br />
   
