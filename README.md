@@ -36,8 +36,9 @@
   <br />
   <br />
 
-  <a>![qqqqqq](https://github-readme-stats.vercel.app/api?username=kminjee&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,stars)</a>
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminjee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+  ![qqqqqq](https://github-readme-stats.vercel.app/api?username=kminjee&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,stars)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminjee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
      
   </div>
 
