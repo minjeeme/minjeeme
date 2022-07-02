@@ -1,6 +1,6 @@
 <div align='center'> 
 
-  ![KakaoTalk_Image_2022-07-02-23-19-35](https://user-images.githubusercontent.com/86812090/177004660-6f624286-7ec9-43ee-892b-9a6199439cce.png)
+  <img src="https://user-images.githubusercontent.com/86812090/177004660-6f624286-7ec9-43ee-892b-9a6199439cce.png" width="300" />
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkminjee%2Fhit-counter&count_bg=%23F2D2D2&title_bg=%23E5A6A6&icon=&icon_color=%23FFF8F8&title=%28%EF%BD%A1%E2%80%A2%CC%80%E1%B4%97-%29%E2%9C%A7&edge_flat=false)](https://hits.seeyoufarm.com)
 
