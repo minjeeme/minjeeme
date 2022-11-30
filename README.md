@@ -1,4 +1,4 @@
-<div align='center'> 
+<div> 
 
   #### ✨ Skills ✨
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
@@ -25,25 +25,4 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
 
-  <br /> 
-  <br />
-  <br />
-
-  ![qqqqqq](https://github-readme-stats.vercel.app/api?username=kminjee&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,stars)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminjee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-     
-  </div>
-
-<!--
-Here are some ideas to get you started:
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
