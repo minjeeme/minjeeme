@@ -1,6 +1,7 @@
 <div> 
   
   #### ✨ Skills ✨
+  <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
